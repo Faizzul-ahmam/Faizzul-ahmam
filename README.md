@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Faizzul-ahmam
+- 👋 Hi, I’m Faizzul
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning React.js
 - 📫 Reach me through faizzul.com
 
 <!---
