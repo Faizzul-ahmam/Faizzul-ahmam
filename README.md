@@ -25,8 +25,15 @@
 </p>
 <br>
 
-[![Faizzul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizzul-ahmam&theme=blue-green)](https://github.com/Faizzul-ahmam/github-readme-stats)
+---
+<br>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=Faizzul-ahmam&show_icons=true&theme=gotham"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizzul-ahmam&theme=gotham&layout=compact"/>
+</div>
+<br>
 
+---
 
 <p> 👀 I’m interested in front-end development </p>
 <p> 🌱 I’m currently upskilling my Typescript </p>
